@@ -1,0 +1,14 @@
+Valid identifier
+4
+6
+
+value of expression in IF: 10
+value of expression in ELSE: 2
+value of expression in Nested else: 24
+2
+-2
+4
+Value of Sin(30) is 0.500001
+Value of Cos(30) is 0.866025
+Value of Tan(30) is 0.577352
+Value of Log(30) is 1.476855

@@ -1,0 +1,22 @@
+
+
+NUM  num1 cm num2 sm
+a eq 4 sm
+b eq 6 sm
+a
+b
+IF lp b gt a rp   a pls b sm
+
+IF lp a gt b rp   a pls b sm   Else b mns a sm
+
+IF lp a lt b rp 		IF lp a gt b rp a pls b sm Else b mul a sm 			sm Else b div a sm
+
+b mod a
+p eq a mns b sm
+p
+a
+
+sin ( 30 )
+cos ( 30 )
+tan ( 30 )
+log ( 30 )
